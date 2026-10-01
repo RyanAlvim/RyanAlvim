@@ -1,300 +1,174 @@
-# 👋 Olá, eu sou Ryan Alvim
+<div align="center">
+
+# Ryan Rodrigues Alvim
 
 ### Desenvolvedor de Software | Backend Java
 
-Sou desenvolvedor de software com formação técnica em Informática e experiência prática no desenvolvimento de **sistemas web, aplicações backend, automações e integrações entre sistemas**.
+Desenvolvimento de aplicações backend, sistemas empresariais, integrações com APIs e automação de processos.
 
-Meu principal foco atualmente é **Java e desenvolvimento backend**, especialmente com **Spring Boot, APIs, bancos de dados e integrações**, mas também possuo experiência com PHP, Kotlin, Lua e Ruby.
+<a href="https://github.com/RyanAlvim">
+  <img src="https://img.shields.io/badge/GitHub-RyanAlvim-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Backend">
+<img src="https://img.shields.io/badge/Spring_Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 
-Tenho interesse principalmente em construir sistemas que resolvam problemas reais de negócio, trabalhando desde a lógica da aplicação até integrações com serviços externos e automações.
-
----
-
-## 🚀 Sobre mim
-
-- 💻 Foco principal em **Backend e Java**
-- ☕ Experiência com **Java, Spring Boot, Spring MVC, JPA e Spring Security**
-- 🔗 Experiência com **APIs, integrações e sistemas ERP**
-- 🗄️ Experiência com **MySQL e SQL**
-- 🤖 Desenvolvimento de **automações com Selenium e OCR**
-- 📄 Experiência com processamento de documentos e arquivos
-- 🌐 Desenvolvimento de aplicações web com **PHP e JavaScript**
-- 🎮 Desenvolvimento de uma biblioteca própria para aplicações 2D em Java
-- 🐧 Usuário de **Linux**
-- 🔧 Utilização de **Git, GitHub e Maven**
+</div>
 
 ---
+
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor de software com formação técnica em Informática e foco em desenvolvimento backend, especialmente no ecossistema Java.
+
+Tenho experiência no desenvolvimento de aplicações web, sistemas de gestão, automações e integrações com serviços externos e sistemas ERP.
+
+Meus projetos envolvem desde regras de negócio e persistência de dados até processamento automatizado de documentos, integração com APIs, OCR e desenvolvimento de bibliotecas e plugins.
+
+**Principais áreas de atuação:**
+
+* Desenvolvimento backend com Java e Spring Boot.
+* Construção de aplicações web e APIs.
+* Integração com bancos de dados e sistemas ERP.
+* Automação de processos e processamento de documentos.
+* Desenvolvimento de ferramentas e bibliotecas próprias.
 
 ## 🛠️ Tecnologias
 
-### ☕ Backend
+### Backend e linguagens
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-</p>
+<div>
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,php,ruby,lua" alt="Java, Spring, Kotlin, PHP, Ruby e Lua">
+</div>
 
-### 🗄️ Banco de dados
+### Bancos de dados, ferramentas e ambiente
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,maven,linux,eclipse" alt="MySQL, Git, GitHub, Maven, Linux e Eclipse">
+</div>
 
-### 🌐 Web
+### Bibliotecas e tecnologias complementares
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+* **Backend:** Spring Boot, Spring MVC, Spring Data JPA e Spring Security.
+* **Web:** Thymeleaf, Laravel e Ruby on Rails.
+* **Automação:** Selenium WebDriver.
+* **Documentos e OCR:** Apache PDFBox, PDF2DOM e Google Cloud Vision.
+* **Integrações:** APIs HTTP, JSON, Sankhya ERP, FTP e serviços de e-mail.
+* **Desenvolvimento adicional:** Swing, AWT, Spigot/Bukkit API e gráficos 2D.
 
-### 🔤 Outras linguagens
+## 🚀 Projetos em destaque
 
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-</p>
+### 1. Imobili-ria
 
-### 🔌 Integrações e automação
+**Java · Spring Boot · Spring Security · JPA · MySQL**
 
-<p>
-  <img src="https://img.shields.io/badge/REST%2FHTTP-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud_Vision-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FTP-333333?style=for-the-badge"/>
-</p>
+Sistema web de gestão imobiliária com regras de negócio e funcionalidades administrativas.
 
-### 🔧 Ferramentas
+* Gestão de comissões, pagamentos, ganhos e custos.
+* Controle de acesso por perfis de usuário.
+* Persistência de dados com Spring Data JPA.
+* Interfaces web com Thymeleaf.
+* Automação com Selenium.
+* Geração de PDFs e integração com FTP e serviços de e-mail.
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+[![Ver repositório](https://img.shields.io/badge/Ver_Projeto-GitHub-181717?style=flat-square\&logo=github)](https://github.com/RyanAlvim/Imobili-ria)
 
----
+### 2. Notas-fiscais
 
-# ⭐ Projetos em destaque
+**Java · Maven · OCR · Sankhya ERP · FTP**
 
-## 🏢 LopesElite_Geral
+Automação de processamento de documentos fiscais e integração com sistema ERP.
 
-**Java · Spring Boot · Spring MVC · Spring Data JPA · Spring Security · MySQL · Selenium**
+* Recepção de arquivos por FTP.
+* Extração de texto de imagens utilizando Google Cloud Vision.
+* Processamento e interpretação das informações reconhecidas.
+* Consultas e operações de integração com o Sankhya ERP.
+* Organização e movimentação dos arquivos processados.
 
-Sistema empresarial desenvolvido para gerenciamento de operações, usuários e processos de negócio.
+### 3. Servidor Bridge
 
-O projeto envolve:
+**Java 8 · Spigot 1.8.8 · Bukkit API**
 
-- 🔐 Autenticação e controle de acesso
-- 👥 Diferentes perfis de usuários
-- 💰 Gerenciamento de pagamentos, custos e comissões
-- 🗄️ Persistência de dados com JPA/MySQL
-- 🤖 Automação com Selenium
-- 📄 Processamento de documentos
-- 📡 Integrações externas
-- 📁 FTP
-- 📧 Comunicação por e-mail
+Plugin de Minecraft com mecânicas do minigame The Bridge e ferramentas administrativas.
 
-> Um dos meus projetos mais completos em termos de desenvolvimento de sistemas empresariais.
+* Partidas 1v1, filas, equipes e pontuação.
+* Gerenciamento de estados e eventos das partidas.
+* Controle de mapas, mundos, kits e inventários.
+* Sistemas de permissões e punições.
+* Verificação personalizada de alcance de ataques.
+* Scoreboard, títulos, sons e menus interativos.
 
----
+### 4. Localizacao-Obra
 
-## ⚙️ TopMixGeral
+**PHP · JavaScript · Sankhya ERP · Fabric.js**
 
-**Java · Maven · Sankhya · Google Cloud Vision · OCR · FTP · HTTP**
+Aplicação web para registro de inspeções de obras integrada ao ERP.
 
-Sistema de automação de processos operacionais envolvendo documentos, imagens e integração com o ERP Sankhya.
+* Consultas de obras, clientes e status.
+* Formulários de inspeção.
+* Captura de geolocalização pelo navegador.
+* Assinaturas desenhadas em tela e exportadas como PNG.
+* Envio de registros para o Sankhya ERP.
 
-Fluxo simplificado:
+### 5. Amethyst2D
 
-    Scanner
-       ↓
-    FTP
-       ↓
-    Imagem
-       ↓
-    OCR / Google Cloud Vision
-       ↓
-    Processamento das informações
-       ↓
-    API Sankhya
-       ↓
-    Consulta / registro no ERP
-       ↓
-    Processamento do arquivo
+**Java · Gráficos 2D · Programação Orientada a Objetos**
 
-O projeto possui automações para diferentes processos, incluindo:
+Biblioteca própria para desenvolvimento de aplicações gráficas bidimensionais.
 
-- 🧾 Notas fiscais
-- ⛽ Bombas
-- 🔍 Vistorias
-- 📄 Processamento de documentos
-- 🔤 OCR
-- 📡 Comunicação com APIs
-- 📁 Gerenciamento de arquivos via FTP
+* Estrutura de sprites e animações.
+* Recorte de spritesheets.
+* Gerenciamento de janela e double buffering.
+* Entrada de teclado.
+* Movimentação, rotação e colisão AABB.
 
-> Projeto voltado principalmente para integração de sistemas e automação de processos.
+[![Ver repositório](https://img.shields.io/badge/Ver_Projeto-GitHub-181717?style=flat-square\&logo=github)](https://github.com/RyanAlvim/Amethyst2D)
 
----
+### Outros projetos
 
-## 📍 Localizacao-Obra
+| Projeto                | Tecnologias            | Descrição                                                                |
+| ---------------------- | ---------------------- | ------------------------------------------------------------------------ |
+| IPTUScrap              | Java, Selenium, PDFBox | Automação de consultas, extração de PDFs e consolidação de dados em CSV. |
+| JavaScrap              | Java, Selenium, Swing  | Coleta automatizada de informações de produtos e exportação para CSV.    |
+| AutoClicker            | Java, Swing, AWT       | Ferramenta desktop para automação de cliques.                            |
+| ArgentinaAPP           | Lua, Corona SDK        | Aplicação educacional com cenas e componentes visuais.                   |
+| Amethyst / AmethystLib | Java                   | Projetos complementares de bibliotecas próprias.                         |
 
-**PHP · JavaScript · Sankhya API · Geolocation API · Fabric.js**
+## 🎓 Formação
 
-Sistema web desenvolvido para realização de vistorias de obras integrado ao ERP Sankhya.
+* **Técnico em Informática** — Faculdade Minas, 2026.
+* **Técnico em Informática para Internet** — CEMI Cruzeiro, 2020.
 
-Funcionalidades:
+## 📚 Cursos complementares
 
-- 🔐 Autenticação e controle de sessão
-- 🏗️ Consulta de obras
-- 📋 Formulário de vistoria
-- 📝 Questionários e observações
-- 📍 Captura da localização geográfica
-- ✍️ Assinatura digital diretamente no navegador
-- 🖼️ Geração e armazenamento da assinatura
-- 🔗 Integração com Sankhya
-- 📡 Comunicação via API
+* Kotlin Web MVC com Spring Boot — Udemy, 2026.
+* Java Completo: Programação Orientada a Objetos — Udemy, 2026.
+* Ruby on Rails — Udemy, 2026.
+* Kotlin: Programação Moderna — Udemy, 2022.
+* PHP e MySQL — Udemy, 2022.
 
-Fluxo simplificado:
+## 📊 GitHub
 
-    Usuário
-       ↓
-    Autenticação
-       ↓
-    Consulta da obra
-       ↓
-    Vistoria
-       ↓
-    Questionário + Observações
-       ↓
-    Localização + Assinatura
-       ↓
-    Finalização
-       ↓
-    Sankhya
+<div align="center">
+
+<a href="https://github.com/RyanAlvim">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanAlvim&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub">
+</a>
+<a href="https://github.com/RyanAlvim">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanAlvim&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas">
+</a>
+
+</div>
+
+## 📫 Contato
+
+* **GitHub:** [github.com/RyanAlvim](https://github.com/RyanAlvim)
+* **E-mail:** [ryanalvim65@gmail.com](mailto:ryanalvim65@gmail.com)
+* **LinkedIn:** adicione aqui o endereço do seu perfil quando estiver criado.
 
 ---
 
-## 🎮 Amethyst2D
+<div align="center">
 
-**Java · AWT · Swing · Graphics2D · BufferStrategy**
+**Desenvolvendo soluções com código, lógica e propósito.**
 
-Biblioteca própria para desenvolvimento de aplicações 2D em Java.
-
-O projeto foi desenvolvido com o objetivo de criar uma estrutura reutilizável para aplicações gráficas 2D.
-
-Principais componentes:
-
-- 🪟 Gerenciamento de janelas
-- 🎨 Renderização com Graphics2D
-- 🖼️ Imagens
-- 👾 Sprites
-- 🎞️ Spritesheets
-- 🔄 Animações
-- ⌨️ Sistema de teclado
-- 🎯 Actions
-- 💥 Detecção de colisão AABB
-- 🔄 Rotação
-- 🏃 Movimentação
-
-Arquitetura principal:
-
-    Object
-       ↓
-    Imagem
-       ↓
-    Animacao
-       ↓
-    Sprite
-
-O projeto também possui uma aplicação de demonstração utilizando a própria biblioteca, com jogador, inimigos, moedas, pontuação e colisões.
-
----
-
-## 🕷️ JavaScrap
-
-**Java · Selenium**
-
-Projeto de automação e web scraping desenvolvido em Java utilizando Selenium para navegação automatizada e extração de informações.
-
----
-
-## 🏠 IPTUScrap
-
-**Java · Selenium**
-
-Projeto de automação para realização de consultas relacionadas a imóveis e organização das informações obtidas durante o processo.
-
----
-
-# 📚 Formação
-
-### 🎓 Técnico em Informática
-**Faculdade Minas — 2026**
-
-### 🎓 Técnico em Informática para Internet
-**CEMI Cruzeiro — 2020**
-
----
-
-# 📖 Cursos
-
-- **Kotlin Web MVC com Spring Boot** — Udemy, 2026
-- **Java Completo — Programação Orientada a Objetos** — Udemy, 2026
-- **Ruby on Rails** — Udemy, 2026
-- **Kotlin — Programação Moderna** — Udemy, 2022
-- **PHP e MySQL** — Udemy, 2022
-
----
-
-# 🧠 Áreas de interesse
-
-- Backend
-- Java
-- Spring Boot
-- APIs REST
-- Sistemas empresariais
-- Integração de sistemas
-- Bancos de dados
-- Automação
-- Processamento de documentos
-- Arquitetura de software
-- Desenvolvimento de bibliotecas
-
----
-
-# 📊 GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanAlvim&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanAlvim&layout=compact&langs_count=8&theme=github_dark"/>
-</p>
-
----
-
-# 📫 Contato
-
-<p>
-  <a href="mailto:ryanalvim65@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/RyanAlvim">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-**LinkedIn:** em construção
-
----
-
-<p align="center">
-  <i>Construindo software, aprendendo continuamente e transformando problemas reais em soluções.</i>
-</p>
+</div>
